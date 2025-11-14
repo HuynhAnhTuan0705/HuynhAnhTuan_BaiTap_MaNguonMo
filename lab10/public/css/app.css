@@ -1,0 +1,6 @@
+.object-cover { object-fit: cover; height: 200px; }
+h1, h2, h3 { letter-spacing: .2px; }
+.card-title a { color: inherit; }
+.card-title a:hover { text-decoration: underline; }
+.fs-5 { text-align: justify; hyphens: auto; }
+footer { backdrop-filter: saturate(120%); }
